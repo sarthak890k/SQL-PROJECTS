@@ -1,1 +1,1 @@
-# SQL-PROJECT-1
+# Customer and Product Analysis Using SQL
