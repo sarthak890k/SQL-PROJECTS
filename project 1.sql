@@ -24,7 +24,7 @@ from customers
 group by city;
 
 
--- 5.Number of loyalty members and non-members.
+-- 5.Number of loyalty members.
 
 select loyalty_member,count(customer_id) as 'number of members'
 from customers
